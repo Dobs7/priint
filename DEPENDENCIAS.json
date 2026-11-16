@@ -1,0 +1,57 @@
+[
+  {
+    "folder": "naudio.core",
+    "id": "NAudio.Core",
+    "version": "2.2.1"
+  },
+  {
+    "folder": "naudio.wasapi",
+    "id": "NAudio.Wasapi",
+    "version": "2.2.1"
+  },
+  {
+    "folder": "opencv",
+    "id": "OpenCvSharp4",
+    "version": "4.8.0.20230708"
+  },
+  {
+    "folder": "opencv-native",
+    "id": "OpenCvSharp4.runtime.win",
+    "version": "4.8.0.20230708"
+  },
+  {
+    "folder": "sharpdx",
+    "id": "SharpDX",
+    "version": "4.2.0"
+  },
+  {
+    "folder": "sharpdx.direct3d11",
+    "id": "SharpDX.Direct3D11",
+    "version": "4.2.0"
+  },
+  {
+    "folder": "sharpdx.dxgi",
+    "id": "SharpDX.DXGI",
+    "version": "4.2.0"
+  },
+  {
+    "folder": "system.buffers",
+    "id": "System.Buffers",
+    "version": "4.5.1"
+  },
+  {
+    "folder": "system.memory",
+    "id": "System.Memory",
+    "version": "4.5.5"
+  },
+  {
+    "folder": "system.numerics.vectors",
+    "id": "System.Numerics.Vectors",
+    "version": "4.5.0"
+  },
+  {
+    "folder": "system.runtime.compilerservices.unsafe",
+    "id": "System.Runtime.CompilerServices.Unsafe",
+    "version": "6.0.0"
+  }
+]
